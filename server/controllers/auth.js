@@ -4,6 +4,9 @@ import User from "../models/user.js";
 
 // REGISTER USER
 export const register = async (req, res) => {
+  console.log("method", req.method);
+  console.log("url", req.url);
+  // console.log(req.body);
   try {
     const {
       firstName,
