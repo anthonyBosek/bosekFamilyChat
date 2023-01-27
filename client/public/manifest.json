@@ -1,0 +1,9 @@
+{
+  "short_name": "Bosek Chat",
+  "name": "The Bosek Family Chat",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
