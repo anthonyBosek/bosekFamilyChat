@@ -9,7 +9,6 @@ const UserImage = ({ image, size = "60px" }) => {
         height={size}
         alt="user"
         src={`http://localhost:8080/assets/${image}`}
-        // src={`http://localhost:3001/assets/${image}`}
       />
     </Box>
   );
