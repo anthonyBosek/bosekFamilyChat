@@ -1,6 +1,6 @@
 # bosekFamilyChat
 A social chat just for Bosek family.
 
-### Colaborators
+### Contributor
 
  - [Anthony Bosek](anthony-bosek.vercel.app)
